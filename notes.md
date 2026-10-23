@@ -8,7 +8,9 @@
 | Status code for /nothing-here.html | 404 |
 | Value of the Content-Type response header | text/html |
 | Remote Address (IP and port) | [::1]:80 |
-| Protocol in the address bar (http or https) | ... |
+| Protocol in the address bar (http or https) | http |
  
 ## Why is this address http and not https?
-... (two sentences)
+its http as its local and doesnt need the security as of now its running on localhost 
+i assume its because of the design itself for now its not a real web its localhost.
+
